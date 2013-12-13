@@ -17,7 +17,7 @@ aligns with (mt)'s provisioning.
 virtual box image which is 769MB so this could take some time. Subsequent runs will only take a minute or so)
 * Vagrant will then use [Puppet](http://puppetlabs.com/) to provision a LAMP stack on the box (again, the first run will
 take some time but any runs after that will be very quick)
-* You can verify that the server is up and running by hitting http://11.11.11.15](http://11.11.11.15) or
+* You can verify that the server is up and running by hitting [http://11.11.11.15](http://11.11.11.15) or
 [http://localhost:8080](http://localhost:8080) in your browser.
 
 ## Usage
