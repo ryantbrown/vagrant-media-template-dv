@@ -1,0 +1,4 @@
+.vagrant
+package.box
+.DS_Store
+Thumbs.db
