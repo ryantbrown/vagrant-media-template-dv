@@ -33,7 +33,7 @@ Some basic information on vagrant and the development server
 
 Visit the [Vagrant website](http://vagrantup.com) for detailed documentation.
 
-### IP Address
+### Server IP
 
 * 11.11.11.15
 
