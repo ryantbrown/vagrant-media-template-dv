@@ -14,7 +14,7 @@ aligns with (mt)'s provisioning.
 
 * Clone this repository `git clone https://github.com/weareloring/vagrant-mediatemple-dv-4.5.git` or
 download the [zip file](https://github.com/weareloring/vagrant-mediatemple-dv-4.5/archive/master.zip) and extract it.
-* Run `vagrant up` inside the newly created directory (the first time you run `vagrant up` it will need to fetch the
+* Run `vagrant up` from the newly created directory (the first time you run `vagrant up` it will need to fetch the
 virtual box image which is 769MB so this could take some time. Subsequent runs will only take a minute or so)
 * Vagrant will then use [Puppet](http://puppetlabs.com/) to provision a LAMP stack on the box (again, the first run will
 take some time but any runs after that will be very quick)
